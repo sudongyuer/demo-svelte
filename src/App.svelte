@@ -18,7 +18,7 @@
     <Counter />
   </div>
 
-  <p>
+  <p class="bg-red-500">
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank">SvelteKit</a>, the official Svelte app framework powered by Vite!
   </p>
 
