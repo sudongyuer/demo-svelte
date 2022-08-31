@@ -1,0 +1,17 @@
+{
+  "name": "demo-svelte",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "svelte": "^3.49.0",
+    "unocss": "^0.45.13",
+    "vite": "^3.0.7"
+  }
+}
